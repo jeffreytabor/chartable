@@ -9,3 +9,6 @@ Create function to handle data, and everything has to be JavaScript, no php.
 Needs to be able to all run in folder on desktop via browser. One input and output folder
 
 All D3 files need to be local, including all library
+
+instead of ajax, might just be file select/upload, so local file: works
+
