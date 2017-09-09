@@ -13,3 +13,5 @@ All D3 files need to be local, including all library
 instead of ajax, might just be file select/upload, so local file: works
 
 Check to see what browsers can handle local D3, import/upload of file: and saving output to /output folder
+
+code simple demo project to make sure it works on Windows locally
